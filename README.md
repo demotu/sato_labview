@@ -8,9 +8,9 @@ Unfortunately, I cannot provide any assistance with these programs; use as is.
 
 Some of the studies that used this software are:
 
-- Duarte M, Freitas SM (2005) Speed-accuracy trade-off in voluntary postural movements. Motor Control, 9, 180-196. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15995258&query_hl=2). [PDF](http://pesquisa.ufabc.edu.br/bmclab/pubs/mc05.pdf).  
-- Freitas SMSF (2005) [Coordenação postural em adultos e idosos durante movimentos voluntários na postura ereta](http://pesquisa.ufabc.edu.br/bmclab/pubs/freitas05.pdf). PhD thesis (in Portuguese).  
-- Danion F, Duarte M, Grosjean M (1999) Fitts’ law in human standing: the effect of scaling. Neuroscience Letters, 277, 131-133. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10624827&dopt=Abstract). [PDF](http://pesquisa.ufabc.edu.br/bmclab/pubs/nl99.pdf).  
+- Duarte M, Freitas SM (2005) Speed-accuracy trade-off in voluntary postural movements. Motor Control, 9, 180-196. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15995258/). [PDF](https://bmclab.pesquisa.ufabc.edu.br/pubs/mc05.pdf).  
+- Freitas SMSF (2005) [Coordenação postural em adultos e idosos durante movimentos voluntários na postura ereta](https://bmclab.pesquisa.ufabc.edu.br/pubs/freitas05.pdf). PhD thesis (in Portuguese).  
+- Danion F, Duarte M, Grosjean M (1999) Fitts’ law in human standing: the effect of scaling. Neuroscience Letters, 277, 131-133. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10624827/). [PDF](https://bmclab.pesquisa.ufabc.edu.br/pubs/nl99.pdf).  
 
 ## License
 
