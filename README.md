@@ -2,7 +2,7 @@
 Labview software used for the studies on speed-accuracy trade-off during standing
 
 
-These are Labview computer programs (last run in 2005 with Labview version 6.1) that I wrote for data acquisition and real-time feedback display of force platform center of pressure position and visual targets for experiments based on the Fitt's law paradigm.
+These are Labview computer programs (last run in 2005 with Labview version 6.1) that I wrote for data acquisition and real-time feedback display of force platform center of pressure position and visual targets for experiments based on the Fitts' law paradigm.
 
 **Unfortunately, I cannot provide any assistance with these programs; use as is**.
 
